@@ -1,0 +1,110 @@
+[
+  {
+    "Month": "January",
+    "Sunrise": "7:50 AM",
+    "Sunset": "4:47 PM",
+    "Daylight": "8:57",
+    "Evening": "7:12",
+    "total_hours": 9,
+    "": ""
+  },
+  {
+    "Month": "February",
+    "Sunrise": "7:14 AM",
+    "Sunset": "5:32 PM",
+    "Daylight": "10:18",
+    "Evening": "6:27",
+    "total_hours": 10.3,
+    "": ""
+  },
+  {
+    "Month": "March",
+    "Sunrise": "6:53 AM",
+    "Sunset": "6:51 PM",
+    "Daylight": "11:57",
+    "Evening": "5:08",
+    "total_hours": 12,
+    "": ""
+  },
+  {
+    "Month": "April",
+    "Sunrise": "6:19 AM",
+    "Sunset": "8:00 PM",
+    "Daylight": "13:41",
+    "Evening": "3:59",
+    "total_hours": 13.7,
+    "": ""
+  },
+  {
+    "Month": "May",
+    "Sunrise": "5:31 AM",
+    "Sunset": "8:41 PM",
+    "Daylight": "15:09",
+    "Evening": "3:18",
+    "total_hours": 15.2,
+    "": ""
+  },
+  {
+    "Month": "June",
+    "Sunrise": "5:12 AM",
+    "Sunset": "9:07 PM",
+    "Daylight": "15:55",
+    "Evening": "2:52",
+    "total_hours": 15.9,
+    "": ""
+  },
+  {
+    "Month": "July",
+    "Sunrise": "5:29 AM",
+    "Sunset": "9:00 PM",
+    "Daylight": "15:30",
+    "Evening": "2:59",
+    "total_hours": 15.5,
+    "": ""
+  },
+  {
+    "Month": "August",
+    "Sunrise": "6:07 AM",
+    "Sunset": "8:18 PM",
+    "Daylight": "14:11",
+    "Evening": "3:41",
+    "total_hours": 14.2,
+    "": ""
+  },
+  {
+    "Month": "September",
+    "Sunrise": "6:47 AM",
+    "Sunset": "7:19 PM",
+    "Daylight": "12:31",
+    "Evening": "4:40",
+    "total_hours": 12.5,
+    "": ""
+  },
+  {
+    "Month": "October",
+    "Sunrise": "7:30 AM",
+    "Sunset": "6:19 PM",
+    "Daylight": "10:48",
+    "Evening": "5:40",
+    "total_hours": 10.8,
+    "": ""
+  },
+  {
+    "Month": "November",
+    "Sunrise": "7:27 AM",
+    "Sunset": "4:45 PM",
+    "Daylight": "9:17",
+    "Evening": "7:14",
+    "total_hours": 9.3,
+    "": ""
+  },
+  {
+    "Month": "December",
+    "Sunrise": "7:50 AM",
+    "Sunset": "4:20 PM",
+    "Daylight": "8:30",
+    "Evening": "7:39",
+    "total_hours": 8.5,
+    "": ""
+  }
+]
